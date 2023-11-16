@@ -9,3 +9,5 @@ I also used https://fontawesome.com/icons/1?f=classic&s=solid to find the desire
 as well as telling my code I was using the prefix 'fa' which stands for 'font-awesome'.
 
 I have also included the imagaes I used for each marker.
+
+My file of coding is under 'main.py.' However to successfully run the project you also need to use the 'map.html'.
